@@ -21,3 +21,4 @@ git remote add origin https://github.com/DaryaVd/My_first_repository.git
 git push -u origin main
 ```
 
+Добавили текст через web-браузер
