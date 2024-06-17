@@ -1,0 +1,14 @@
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.AssemblyInfoInputs.cache
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.AssemblyInfo.cs
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\bin\Debug\net8.0\task1HomeWork.exe
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\bin\Debug\net8.0\task1HomeWork.deps.json
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\bin\Debug\net8.0\task1HomeWork.runtimeconfig.json
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\bin\Debug\net8.0\task1HomeWork.dll
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\bin\Debug\net8.0\task1HomeWork.pdb
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.dll
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\refint\task1HomeWork.dll
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.pdb
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\task1HomeWork.genruntimeconfig.cache
+C:\Users\Дарья\Desktop\Учеба\Rekursia\task1HomeWork\obj\Debug\net8.0\ref\task1HomeWork.dll
